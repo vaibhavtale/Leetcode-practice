@@ -1,6 +1,8 @@
 //TC = O(N^2)
 //SC = O(N^2)
 
+// This was a really easy problem just Simple DFS and Backtracking, but the catch here was we've to walk over every empty cell else it isn't a valid path.
+
 class Solution {
 public:
 
